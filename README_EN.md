@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/imageapp_logo.jpg" alt="Magnetic Search Collection" width="120" height="120">
+<img src="./assets/image/app_logo.jpg" alt="Magnetic Search Collection" width="120" height="120">
 
 # 🧲 Magnetic Search Collection
 
@@ -25,7 +25,7 @@
 
 ## 📖 Overview
 
-**Magnetic Search Collection** is a lightweight magnet link and ED2K link collection management tool. All data is stored locally, no user information is uploaded, protecting your privacy.
+**Magnetic Search Collection** is a lightweight magnet link and ED2K link collection management tool. All data is stored locally, no user information is uploaded, protecting your privacy. If the software is popular, I may consider open sourcing it.
 
 ---
 
@@ -94,24 +94,24 @@ Visit the [Releases](https://github.com/clever-heart/magnetic_search_flutter/rel
 
 | Page 1 | Page 2 |
 |:---:|:---:|
-| <img src="./assets/imagewindows-page-1.png" alt="Windows-Page1" style="width: 100%; max-width: 400px;"> | <img src="./assets/imagewindows-page-2.png" alt="Windows-Page2" style="width: 100%; max-width: 400px;"> |
+| <img src="./assets/image/windows-page-1.png" alt="Windows-Page1" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-2.png" alt="Windows-Page2" style="width: 100%; max-width: 400px;"> |
 | Page 1 | Page 2 |
 
 | Page 3 | Page 4 |
 |:---:|:---:|
-| <img src="./assets/imagewindows-page-3.png" alt="Windows-Page3" style="width: 100%; max-width: 400px;"> | <img src="./assets/imagewindows-page-4.png" alt="Windows-Page4" style="width: 100%; max-width: 400px;"> |
+| <img src="./assets/image/windows-page-3.png" alt="Windows-Page3" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-4.png" alt="Windows-Page4" style="width: 100%; max-width: 400px;"> |
 | Page 3 | Page 4 |
 
 ### 📱 Android Platform
 
 | Page 1 | Page 2 |
 |:---:|:---:|
-| <img src="./assets/imagephone-page-1.png" alt="Android-Page1" style="width: 100%; max-width: 180px;"> | <img src="./assets/imagephone-page-2.png" alt="Android-Page2" style="width: 100%; max-width: 180px;"> |
+| <img src="./assets/image/phone-page-1.png" alt="Android-Page1" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-2.png" alt="Android-Page2" style="width: 100%; max-width: 180px;"> |
 | Page 1 | Page 2 |
 
 | Page 3 | Page 4 |
 |:---:|:---:|
-| <img src="./assets/imagephone-page-3.png" alt="Android-Page3" style="width: 100%; max-width: 180px;"> | <img src="./assets/imagephone-page-4.png" alt="Android-Page4" style="width: 100%; max-width: 180px;"> |
+| <img src="./assets/image/phone-page-3.png" alt="Android-Page3" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-4.png" alt="Android-Page4" style="width: 100%; max-width: 180px;"> |
 | Page 3 | Page 4 |
 
 ---
