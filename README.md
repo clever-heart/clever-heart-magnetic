@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./image/app_logo.jpg" alt="巧心磁力收藏" width="120" height="120">
+
 # 🧲 巧心磁力收藏
 
 **本地磁力/电驴资源收藏管理工具**
@@ -65,6 +67,28 @@
 - 🤖 Android 5.0 或更高版本
 
 > 📌 **注意**: 目前仅支持 Windows 和 Android 平台
+
+---
+
+## 🖼️ 应用截图
+
+### 💻 Windows 平台
+
+<div align="center">
+  <img src="./image/windows-page-1.png" alt="Windows 界面1" width="600">
+  <img src="./image/windows-page-2.png" alt="Windows 界面2" width="600">
+  <img src="./image/windows-page-3.png" alt="Windows 界面3" width="600">
+  <img src="./image/windows-page-4.png" alt="Windows 界面4" width="600">
+</div>
+
+### 📱 Android 平台
+
+<div align="center">
+  <img src="./image/phone-page-1.png" alt="Android 界面1" width="300">
+  <img src="./image/phone-page-2.png" alt="Android 界面2" width="300">
+  <img src="./image/phone-page-3.png" alt="Android 界面3" width="300">
+  <img src="./image/phone-page-4.png" alt="Android 界面4" width="300">
+</div>
 
 ---
 

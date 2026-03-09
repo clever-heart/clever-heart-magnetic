@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./image/app_logo.jpg" alt="Magnetic Search Collection" width="120" height="120">
+
 # 🧲 Magnetic Search Collection
 
 **Local Magnet/ED2K Link Collection Manager**
@@ -65,6 +67,28 @@ Visit the [Releases](https://github.com/your-username/magnetic_search_flutter/re
 - 🤖 Android 5.0 or later
 
 > 📌 **Note**: Currently only supports Windows and Android platforms
+
+---
+
+## 🖼️ Screenshots
+
+### 💻 Windows Platform
+
+<div align="center">
+  <img src="./image/windows-page-1.png" alt="Windows Interface 1" width="600">
+  <img src="./image/windows-page-2.png" alt="Windows Interface 2" width="600">
+  <img src="./image/windows-page-3.png" alt="Windows Interface 3" width="600">
+  <img src="./image/windows-page-4.png" alt="Windows Interface 4" width="600">
+</div>
+
+### 📱 Android Platform
+
+<div align="center">
+  <img src="./image/phone-page-1.png" alt="Android Interface 1" width="300">
+  <img src="./image/phone-page-2.png" alt="Android Interface 2" width="300">
+  <img src="./image/phone-page-3.png" alt="Android Interface 3" width="300">
+  <img src="./image/phone-page-4.png" alt="Android Interface 4" width="300">
+</div>
 
 ---
 
