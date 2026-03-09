@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./image/app_logo.jpg" alt="巧心磁力收藏" width="120" height="120">
+<img src="./assets/image/app_logo.jpg" alt="巧心磁力收藏" width="120" height="120">
 
 #  巧心磁力收藏 Ciallo～(∠・ω< )⌒★
 
@@ -82,24 +82,24 @@
 
 | 页面1-搜索首页 | 页面2-收藏管理 |
 |:---:|:---:|
-| <img src="./image/windows-page-1.png" alt="Windows-页面1-搜索首页" style="width: 100%; max-width: 400px;"> | <img src="./image/windows-page-2.png" alt="Windows-页面2-收藏管理" style="width: 100%; max-width: 400px;"> |
+| <img src="./assets/image/windows-page-1.png" alt="Windows-页面1-搜索首页" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-2.png" alt="Windows-页面2-收藏管理" style="width: 100%; max-width: 400px;"> |
 | 页面1-搜索首页 | 页面2-收藏管理 |
 
 | 页面3-设置 | 页面4-网页浏览 |
 |:---:|:---:|
-| <img src="./image/windows-page-3.png" alt="Windows-页面3-设置" style="width: 100%; max-width: 400px;"> | <img src="./image/windows-page-4.png" alt="Windows-页面4-网页浏览" style="width: 100%; max-width: 400px;"> |
+| <img src="./assets/image/windows-page-3.png" alt="Windows-页面3-设置" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-4.png" alt="Windows-页面4-网页浏览" style="width: 100%; max-width: 400px;"> |
 | 页面3-设置 | 页面4-网页浏览 |
 
 ### 📱 Android 平台
 
 | 页面1-搜索首页 | 页面2-收藏管理 |
 |:---:|:---:|
-| <img src="./image/phone-page-1.png" alt="Android-页面1-搜索首页" style="width: 100%; max-width: 180px;"> | <img src="./image/phone-page-2.png" alt="Android-页面2-收藏管理" style="width: 100%; max-width: 180px;"> |
+| <img src="./assets/image/phone-page-1.png" alt="Android-页面1-搜索首页" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-2.png" alt="Android-页面2-收藏管理" style="width: 100%; max-width: 180px;"> |
 | 页面1-搜索首页 | 页面2-收藏管理 |
 
 | 页面3-设置 | 页面4-网页浏览 |
 |:---:|:---:|
-| <img src="./image/phone-page-3.png" alt="Android-页面3-设置" style="width: 100%; max-width: 180px;"> | <img src="./image/phone-page-4.png" alt="Android-页面4-网页浏览" style="width: 100%; max-width: 180px;"> |
+| <img src="./assets/image/phone-page-3.png" alt="Android-页面3-设置" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-4.png" alt="Android-页面4-网页浏览" style="width: 100%; max-width: 180px;"> |
 | 页面3-设置 | 页面4-网页浏览 |
 
 ---
