@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/image/app_logo.jpg" alt="巧心磁力收藏" width="120" height="120">
+<img src="./image/app_logo.jpg" alt="巧心磁力收藏" width="120" height="120">
 
 #  巧心磁力收藏 Ciallo～(∠・ω< )⌒★
 
@@ -8,6 +8,17 @@
 
 🔒 一款专注于隐私保护的磁力链接管理软件
 
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android-brightgreen.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/Language-Flutter-blue.svg" alt="Language">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+  <img src="https://img.shields.io/badge/Version-1.0.0-orange.svg" alt="Version">
+</div>
+
+<div align="right">
+  <a href="./README.md">中文</a> | <a href="./README_EN.md">English</a>
 </div>
 
 ---
@@ -40,6 +51,7 @@
 - 自动检测页面中的磁力链接和电驴链接
 - 广告拦截功能
 - 标签页管理
+- 设置页面支持设为默认浏览器，方便快速抓取页面中的磁力/电驴链接
 
 ### 🔗 一键打开
 - 支持一键调用系统已安装的第三方应用
@@ -65,7 +77,7 @@
 
 ### 💻 Windows 版本
 
-前往 [Releases](https://github.com/your-username/magnetic_search_flutter/releases) 页面下载最新版本的安装包。
+前往 [Releases](https://github.com/clever-heart/magnetic_search_flutter/releases) 页面下载最新版本的安装包。
 
 ### 📋 系统要求
 
@@ -82,24 +94,24 @@
 
 | 页面1-搜索首页 | 页面2-收藏管理 |
 |:---:|:---:|
-| <img src="./assets/image/windows-page-1.png" alt="Windows-页面1-搜索首页" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-2.png" alt="Windows-页面2-收藏管理" style="width: 100%; max-width: 400px;"> |
+| <img src="./image/windows-page-1.png" alt="Windows-页面1-搜索首页" style="width: 100%; max-width: 400px;"> | <img src="./image/windows-page-2.png" alt="Windows-页面2-收藏管理" style="width: 100%; max-width: 400px;"> |
 | 页面1-搜索首页 | 页面2-收藏管理 |
 
 | 页面3-设置 | 页面4-网页浏览 |
 |:---:|:---:|
-| <img src="./assets/image/windows-page-3.png" alt="Windows-页面3-设置" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-4.png" alt="Windows-页面4-网页浏览" style="width: 100%; max-width: 400px;"> |
+| <img src="./image/windows-page-3.png" alt="Windows-页面3-设置" style="width: 100%; max-width: 400px;"> | <img src="./image/windows-page-4.png" alt="Windows-页面4-网页浏览" style="width: 100%; max-width: 400px;"> |
 | 页面3-设置 | 页面4-网页浏览 |
 
 ### 📱 Android 平台
 
 | 页面1-搜索首页 | 页面2-收藏管理 |
 |:---:|:---:|
-| <img src="./assets/image/phone-page-1.png" alt="Android-页面1-搜索首页" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-2.png" alt="Android-页面2-收藏管理" style="width: 100%; max-width: 180px;"> |
+| <img src="./image/phone-page-1.png" alt="Android-页面1-搜索首页" style="width: 100%; max-width: 180px;"> | <img src="./image/phone-page-2.png" alt="Android-页面2-收藏管理" style="width: 100%; max-width: 180px;"> |
 | 页面1-搜索首页 | 页面2-收藏管理 |
 
 | 页面3-设置 | 页面4-网页浏览 |
 |:---:|:---:|
-| <img src="./assets/image/phone-page-3.png" alt="Android-页面3-设置" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-4.png" alt="Android-页面4-网页浏览" style="width: 100%; max-width: 180px;"> |
+| <img src="./image/phone-page-3.png" alt="Android-页面3-设置" style="width: 100%; max-width: 180px;"> | <img src="./image/phone-page-4.png" alt="Android-页面4-网页浏览" style="width: 100%; max-width: 180px;"> |
 | 页面3-设置 | 页面4-网页浏览 |
 
 ---

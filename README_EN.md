@@ -10,6 +10,17 @@
 
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android-brightgreen.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/Language-Flutter-blue.svg" alt="Language">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+  <img src="https://img.shields.io/badge/Version-1.0.0-orange.svg" alt="Version">
+</div>
+
+<div align="right">
+  <a href="./README.md">中文</a> | <a href="./README_EN.md">English</a>
+</div>
+
 ---
 
 ## 📖 Overview
@@ -46,6 +57,7 @@
 - Supports: Xunlei (Thunder), 115 Cloud Drive and other apps that support magnet links and ED2K
 - Supports opening various online magnet players
 - Supports marking downloaded items, quick copy name for downloaded or empty collections, fast search
+- Supports setting the app as the default browser to quickly grab magnet/ED2K links from web pages
 
 ### 💾 Data Backup
 - JSON format import/export
@@ -65,7 +77,7 @@
 
 ### 💻 Windows Version
 
-Visit the [Releases](https://github.com/your-username/magnetic_search_flutter/releases) page to download the latest version.
+Visit the [Releases](https://github.com/clever-heart/magnetic_search_flutter/releases) page to download the latest version.
 
 ### 📋 System Requirements
 
