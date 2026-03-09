@@ -41,6 +41,12 @@
 - Ad blocking
 - Tab management
 
+### 🔗 Quick Open
+- One-click invocation of third-party apps installed on the system
+- Supports: Xunlei (Thunder), 115 Cloud Drive and other apps that support magnet links and ED2K
+- Supports opening various online magnet players
+- Supports marking downloaded items, quick copy name for downloaded or empty collections, fast search
+
 ### 💾 Data Backup
 - JSON format import/export
 - LAN transfer for backup files
@@ -74,21 +80,27 @@ Visit the [Releases](https://github.com/your-username/magnetic_search_flutter/re
 
 ### 💻 Windows Platform
 
-<div align="center">
-  <img src="./image/windows-page-1.png" alt="Windows Interface 1" width="600">
-  <img src="./image/windows-page-2.png" alt="Windows Interface 2" width="600">
-  <img src="./image/windows-page-3.png" alt="Windows Interface 3" width="600">
-  <img src="./image/windows-page-4.png" alt="Windows Interface 4" width="600">
-</div>
+| Page 1 | Page 2 |
+|:---:|:---:|
+| <img src="./image/windows-page-1.png" alt="Windows-Page1" width="400"> | <img src="./image/windows-page-2.png" alt="Windows-Page2" width="400"> |
+| Page 1 | Page 2 |
+
+| Page 3 | Page 4 |
+|:---:|:---:|
+| <img src="./image/windows-page-3.png" alt="Windows-Page3" width="400"> | <img src="./image/windows-page-4.png" alt="Windows-Page4" width="400"> |
+| Page 3 | Page 4 |
 
 ### 📱 Android Platform
 
-<div align="center">
-  <img src="./image/phone-page-1.png" alt="Android Interface 1" width="300">
-  <img src="./image/phone-page-2.png" alt="Android Interface 2" width="300">
-  <img src="./image/phone-page-3.png" alt="Android Interface 3" width="300">
-  <img src="./image/phone-page-4.png" alt="Android Interface 4" width="300">
-</div>
+| Page 1 | Page 2 |
+|:---:|:---:|
+| <img src="./image/phone-page-1.png" alt="Android-Page1" width="180"> | <img src="./image/phone-page-2.png" alt="Android-Page2" width="180"> |
+| Page 1 | Page 2 |
+
+| Page 3 | Page 4 |
+|:---:|:---:|
+| <img src="./image/phone-page-3.png" alt="Android-Page3" width="180"> | <img src="./image/phone-page-4.png" alt="Android-Page4" width="180"> |
+| Page 3 | Page 4 |
 
 ---
 

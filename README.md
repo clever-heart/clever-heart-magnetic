@@ -2,7 +2,7 @@
 
 <img src="./image/app_logo.jpg" alt="巧心磁力收藏" width="120" height="120">
 
-# 🧲 巧心磁力收藏
+#  巧心磁力收藏 Ciallo～(∠・ω< )⌒★
 
 **本地磁力/电驴资源收藏管理工具**
 
@@ -41,6 +41,12 @@
 - 广告拦截功能
 - 标签页管理
 
+### 🔗 一键打开
+- 支持一键调用系统已安装的第三方应用
+- 支持打开：迅雷、115网盘等支持磁力链接及电驴的应用
+- 支持打开各类在线播放磁力软件
+- 支持标记已下载功能，已下载或空收藏则快速复制名称，快速检索
+
 ### 💾 数据备份
 - JSON格式导入导出
 - 局域网传输备份文件
@@ -74,21 +80,27 @@
 
 ### 💻 Windows 平台
 
-<div align="center">
-  <img src="./image/windows-page-1.png" alt="Windows 界面1" width="600">
-  <img src="./image/windows-page-2.png" alt="Windows 界面2" width="600">
-  <img src="./image/windows-page-3.png" alt="Windows 界面3" width="600">
-  <img src="./image/windows-page-4.png" alt="Windows 界面4" width="600">
-</div>
+| 页面1 | 页面2 |
+|:---:|:---:|
+| <img src="./image/windows-page-1.png" alt="Windows-页面1" width="400"> | <img src="./image/windows-page-2.png" alt="Windows-页面2" width="400"> |
+| 页面1 | 页面2 |
+
+| 页面3 | 页面4 |
+|:---:|:---:|
+| <img src="./image/windows-page-3.png" alt="Windows-页面3" width="400"> | <img src="./image/windows-page-4.png" alt="Windows-页面4" width="400"> |
+| 页面3 | 页面4 |
 
 ### 📱 Android 平台
 
-<div align="center">
-  <img src="./image/phone-page-1.png" alt="Android 界面1" width="300">
-  <img src="./image/phone-page-2.png" alt="Android 界面2" width="300">
-  <img src="./image/phone-page-3.png" alt="Android 界面3" width="300">
-  <img src="./image/phone-page-4.png" alt="Android 界面4" width="300">
-</div>
+| 页面1 | 页面2 |
+|:---:|:---:|
+| <img src="./image/phone-page-1.png" alt="Android-页面1" width="180"> | <img src="./image/phone-page-2.png" alt="Android-页面2" width="180"> |
+| 页面1 | 页面2 |
+
+| 页面3 | 页面4 |
+|:---:|:---:|
+| <img src="./image/phone-page-3.png" alt="Android-页面3" width="180"> | <img src="./image/phone-page-4.png" alt="Android-页面4" width="180"> |
+| 页面3 | 页面4 |
 
 ---
 
