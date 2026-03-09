@@ -82,24 +82,24 @@ Visit the [Releases](https://github.com/your-username/magnetic_search_flutter/re
 
 | Page 1 | Page 2 |
 |:---:|:---:|
-| <img src="./image/windows-page-1.png" alt="Windows-Page1" width="400"> | <img src="./image/windows-page-2.png" alt="Windows-Page2" width="400"> |
+| <img src="./image/windows-page-1.png" alt="Windows-Page1" style="width: 100%; max-width: 400px;"> | <img src="./image/windows-page-2.png" alt="Windows-Page2" style="width: 100%; max-width: 400px;"> |
 | Page 1 | Page 2 |
 
 | Page 3 | Page 4 |
 |:---:|:---:|
-| <img src="./image/windows-page-3.png" alt="Windows-Page3" width="400"> | <img src="./image/windows-page-4.png" alt="Windows-Page4" width="400"> |
+| <img src="./image/windows-page-3.png" alt="Windows-Page3" style="width: 100%; max-width: 400px;"> | <img src="./image/windows-page-4.png" alt="Windows-Page4" style="width: 100%; max-width: 400px;"> |
 | Page 3 | Page 4 |
 
 ### 📱 Android Platform
 
 | Page 1 | Page 2 |
 |:---:|:---:|
-| <img src="./image/phone-page-1.png" alt="Android-Page1" width="180"> | <img src="./image/phone-page-2.png" alt="Android-Page2" width="180"> |
+| <img src="./image/phone-page-1.png" alt="Android-Page1" style="width: 100%; max-width: 180px;"> | <img src="./image/phone-page-2.png" alt="Android-Page2" style="width: 100%; max-width: 180px;"> |
 | Page 1 | Page 2 |
 
 | Page 3 | Page 4 |
 |:---:|:---:|
-| <img src="./image/phone-page-3.png" alt="Android-Page3" width="180"> | <img src="./image/phone-page-4.png" alt="Android-Page4" width="180"> |
+| <img src="./image/phone-page-3.png" alt="Android-Page3" style="width: 100%; max-width: 180px;"> | <img src="./image/phone-page-4.png" alt="Android-Page4" style="width: 100%; max-width: 180px;"> |
 | Page 3 | Page 4 |
 
 ---

@@ -80,27 +80,27 @@
 
 ### 💻 Windows 平台
 
-| 页面1 | 页面2 |
+| 页面1-搜索首页 | 页面2-收藏管理 |
 |:---:|:---:|
-| <img src="./image/windows-page-1.png" alt="Windows-页面1" width="400"> | <img src="./image/windows-page-2.png" alt="Windows-页面2" width="400"> |
-| 页面1 | 页面2 |
+| <img src="./image/windows-page-1.png" alt="Windows-页面1-搜索首页" style="width: 100%; max-width: 400px;"> | <img src="./image/windows-page-2.png" alt="Windows-页面2-收藏管理" style="width: 100%; max-width: 400px;"> |
+| 页面1-搜索首页 | 页面2-收藏管理 |
 
-| 页面3 | 页面4 |
+| 页面3-设置 | 页面4-网页浏览 |
 |:---:|:---:|
-| <img src="./image/windows-page-3.png" alt="Windows-页面3" width="400"> | <img src="./image/windows-page-4.png" alt="Windows-页面4" width="400"> |
-| 页面3 | 页面4 |
+| <img src="./image/windows-page-3.png" alt="Windows-页面3-设置" style="width: 100%; max-width: 400px;"> | <img src="./image/windows-page-4.png" alt="Windows-页面4-网页浏览" style="width: 100%; max-width: 400px;"> |
+| 页面3-设置 | 页面4-网页浏览 |
 
 ### 📱 Android 平台
 
-| 页面1 | 页面2 |
+| 页面1-搜索首页 | 页面2-收藏管理 |
 |:---:|:---:|
-| <img src="./image/phone-page-1.png" alt="Android-页面1" width="180"> | <img src="./image/phone-page-2.png" alt="Android-页面2" width="180"> |
-| 页面1 | 页面2 |
+| <img src="./image/phone-page-1.png" alt="Android-页面1-搜索首页" style="width: 100%; max-width: 180px;"> | <img src="./image/phone-page-2.png" alt="Android-页面2-收藏管理" style="width: 100%; max-width: 180px;"> |
+| 页面1-搜索首页 | 页面2-收藏管理 |
 
-| 页面3 | 页面4 |
+| 页面3-设置 | 页面4-网页浏览 |
 |:---:|:---:|
-| <img src="./image/phone-page-3.png" alt="Android-页面3" width="180"> | <img src="./image/phone-page-4.png" alt="Android-页面4" width="180"> |
-| 页面3 | 页面4 |
+| <img src="./image/phone-page-3.png" alt="Android-页面3-设置" style="width: 100%; max-width: 180px;"> | <img src="./image/phone-page-4.png" alt="Android-页面4-网页浏览" style="width: 100%; max-width: 180px;"> |
+| 页面3-设置 | 页面4-网页浏览 |
 
 ---
 
