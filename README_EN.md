@@ -2,11 +2,11 @@
 
 <img src="./assets/image/app_logo.jpg" alt="Magnetic Search Collection" width="120" height="120">
 
-# 🧲 Magnetic Search Collection
+# 🧲 Magnetic Search Collection Ciallo～(∠・ω< )⌒★
 
-**Local Magnet/ED2K Link Collection Manager**
+**Local Magnet/ED2K Resource Collection Manager**
 
-🔒 A privacy-focused magnet link management software
+🔒 A privacy-focused magnet/ED2K link management software
 
 </div>
 
@@ -51,13 +51,13 @@
 - Automatic detection of magnet and ED2K links
 - Ad blocking
 - Tab management
+- Supports setting the app as the default browser to quickly grab magnet/ED2K links from web pages
 
 ### 🔗 Quick Open
 - One-click invocation of third-party apps installed on the system
 - Supports: Xunlei (Thunder), 115 Cloud Drive and other apps that support magnet links and ED2K
 - Supports opening various online magnet players
 - Supports marking downloaded items, quick copy name for downloaded or empty collections, fast search
-- Supports setting the app as the default browser to quickly grab magnet/ED2K links from web pages
 
 ### 💾 Data Backup
 - JSON format import/export
@@ -77,7 +77,7 @@
 
 ### 💻 Windows Version
 
-Visit the [Releases](https://github.com/clever-heart/magnetic_search_flutter/releases) page to download the latest version.
+Visit the [Releases](https://github.com/clever-heart/clever-heart-magnetic/releases/) page to download the latest version.
 
 ### 📋 System Requirements
 
@@ -92,27 +92,23 @@ Visit the [Releases](https://github.com/clever-heart/magnetic_search_flutter/rel
 
 ### 💻 Windows Platform
 
-| Page 1 | Page 2 |
+| Windows-Page 1-Search Home | Windows-Page 2-Collection Management |
 |:---:|:---:|
-| <img src="./assets/image/windows-page-1.png" alt="Windows-Page1" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-2.png" alt="Windows-Page2" style="width: 100%; max-width: 400px;"> |
-| Page 1 | Page 2 |
+| <img src="./assets/image/windows-page-1.png" alt="Windows-Page1-Search Home" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-2.png" alt="Windows-Page2-Collection Management" style="width: 100%; max-width: 400px;"> |
 
-| Page 3 | Page 4 |
+| Windows-Page 3-Settings | Windows-Page 4-Web Browsing |
 |:---:|:---:|
-| <img src="./assets/image/windows-page-3.png" alt="Windows-Page3" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-4.png" alt="Windows-Page4" style="width: 100%; max-width: 400px;"> |
-| Page 3 | Page 4 |
+| <img src="./assets/image/windows-page-3.png" alt="Windows-Page3-Settings" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-4.png" alt="Windows-Page4-Web Browsing" style="width: 100%; max-width: 400px;"> |
 
 ### 📱 Android Platform
 
-| Page 1 | Page 2 |
+| Android-Page 1-Search Home | Android-Page 2-Collection Management |
 |:---:|:---:|
-| <img src="./assets/image/phone-page-1.png" alt="Android-Page1" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-2.png" alt="Android-Page2" style="width: 100%; max-width: 180px;"> |
-| Page 1 | Page 2 |
+| <img src="./assets/image/phone-page-1.png" alt="Android-Page1-Search Home" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-2.png" alt="Android-Page2-Collection Management" style="width: 100%; max-width: 180px;"> |
 
-| Page 3 | Page 4 |
+| Android-Page 3-Settings | Android-Page 4-Web Browsing |
 |:---:|:---:|
-| <img src="./assets/image/phone-page-3.png" alt="Android-Page3" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-4.png" alt="Android-Page4" style="width: 100%; max-width: 180px;"> |
-| Page 3 | Page 4 |
+| <img src="./assets/image/phone-page-3.png" alt="Android-Page3-Settings" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-4.png" alt="Android-Page4-Web Browsing" style="width: 100%; max-width: 180px;"> |
 
 ---
 
@@ -135,7 +131,7 @@ Visit the [Releases](https://github.com/clever-heart/magnetic_search_flutter/rel
 **Method 2: From Browser**
 1. Open the built-in browser
 2. Visit resource websites
-3. The app will automatically detect magnet links on the page
+3. The app will automatically detect magnet/ED2K links on the page
 4. Click the link to quickly add to collection
 
 ### 🔄 Data Backup & Restore
@@ -186,7 +182,7 @@ A: Go to Settings -> Search Source Management, click add button, enter search so
 
 **Bilibili: 咕噜咕噜大法师**
 
-For questions or suggestions, feel free to contact via Bilibili private message.
+For questions or suggestions, feel free to contact via Bilibili or private message on the current site.
 
 ---
 
