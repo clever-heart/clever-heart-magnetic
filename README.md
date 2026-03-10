@@ -74,7 +74,7 @@
 
 ## 📥 下载安装
 
-### 💻 Windows 版本
+### 💻 Windows/Android 版本
 
 前往 [Releases](https://github.com/clever-heart/clever-heart-magnetic/releases/) 页面下载最新版本的安装包。
 
