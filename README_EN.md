@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android-brightgreen.svg" alt="Platform">
   <img src="https://img.shields.io/badge/Language-Flutter-blue.svg" alt="Language">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
-  <img src="https://img.shields.io/badge/Version-1.0.0-orange.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.0.1-orange.svg" alt="Version">
 </div>
 
 <div align="right">
@@ -187,6 +187,10 @@ For questions or suggestions, feel free to contact via Bilibili or private messa
 ---
 
 ## 📝 Changelog
+
+### v1.0.1
+- 🐛 Version optimization: Unified version management
+- 🔧 Configuration improvement: Preparing for dynamic version retrieval optimization
 
 ### v1.0.0
 - 🎉 Initial release
