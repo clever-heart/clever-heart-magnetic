@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android-brightgreen.svg" alt="Platform">
   <img src="https://img.shields.io/badge/Language-Flutter-blue.svg" alt="Language">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
-  <img src="https://img.shields.io/badge/Version-1.0.1-orange.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.0.2-orange.svg" alt="Version">
 </div>
 
 <div align="right">
@@ -188,9 +188,25 @@ For questions or suggestions, feel free to contact via Bilibili or private messa
 
 ## 📝 Changelog
 
+### v1.0.2
+- ✨ Added: Baidu Netdisk and Quark Netdisk integration for magnet downloads [Requested by 小黑盒-疯狂大马猴zd]
+- ✨ Added: Custom display scaling feature [Requested by QQ-氨基酸奶]
+- 🎨 Improved: Mobile browser URL input interaction experience
+- 🎨 Improved: Backup management dialog uses dynamic theme colors instead of hardcoded blue
+- 🎨 Improved: Settings page refresh logic, fixed scroll position reset issue
+- ⚡ Improved: Backup loading performance, quickly skip mismatched backup files
+- 🐛 Fixed: Windows title bar buttons not visible issue
+- 📊 Added: Umeng analytics feature (optional, requires user consent)
+- 🔒 Added: Privacy policy consent dialog
+- 🔧 Changed: Disabled default Google Analytics
+
 ### v1.0.1
-- 🐛 Version optimization: Unified version management
-- 🔧 Configuration improvement: Preparing for dynamic version retrieval optimization
+- 🎨 Improved: Favorites page filter UI beautification and added download status filter
+- 🎨 Improved: PC favorites page layout optimization and added window size saving
+- 🎨 Improved: Update check mechanism with manual check frequency limit
+- 🎨 Improved: Removed display quantity limit for backup details and diff comparison dialogs
+- 🐛 Fixed: ED2K link sharing format issue
+- 🐛 Fixed: Merge import logic and optimized code structure
 
 ### v1.0.0
 - 🎉 Initial release
