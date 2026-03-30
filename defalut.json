@@ -1,0 +1,46 @@
+{
+    "type": "magnetic-search-settings",
+    "version": 1,
+    "exportedAt": "2026-03-30T15:58:01.061684",
+    "fileName": "配置备份_1774857481",
+    "data": {
+        "customSources": [
+            {
+                "id": "6v",
+                "name": "6V影视",
+                "homeUrl": "https://www.6v123.net/",
+                "template": "https://www.6v123.net/",
+                "enabled": true,
+                "isDesktopMode": true,
+                "order": 1
+            },
+            {
+                "id": "shb",
+                "name": "Shb影视",
+                "homeUrl": "https://www.seedhub.cc/",
+                "template": "https://www.seedhub.cc/",
+                "enabled": true,
+                "isDesktopMode": true,
+                "order": 4
+            },
+            {
+                "id": "source-1770306048665",
+                "name": "迅雷吧",
+                "homeUrl": "https://xunlei8.cc/",
+                "template": "https://xunlei8.cc/",
+                "enabled": true,
+                "isDesktopMode": true,
+                "order": 5
+            }
+        ],
+        "customCoverSources": [
+            {
+                "id": "1774857464644",
+                "name": "6V",
+                "template": "https://www.6v123.net/",
+                "enabled": true,
+                "order": 0
+            }
+        ]
+    }
+}
