@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android-brightgreen.svg" alt="Platform">
   <img src="https://img.shields.io/badge/Language-Flutter-blue.svg" alt="Language">
-  <img src="https://img.shields.io/badge/Version-1.0.2-orange.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.0.4-orange.svg" alt="Version">
 </div>
 
 <div align="right">
@@ -40,10 +40,30 @@
 - 批量操作：多选、批量删除、批量移动、批量分享
 - 支持手动排序、按时间排序、按名称排序
 
-### 🖼️ 封面管理
+### 🎬 在线播放
+- 支持 VOD 和 P2P 两种播放模式
+- 自动解析磁力链接文件列表，多文件选择播放
+- 播放器支持：字幕搜索与设置、截图保存、续播、音轨/字幕轨道切换、画面调节（亮度/对比度/饱和度/超分辨率）、锁屏模式
+- VOD/P2P 模式自动记忆上次选择
+
+### 📥 下载管理
+- 磁力链接多文件选择下载（仅视频和音频文件）
+- 下载任务卡片展示（合集头部 + 子文件结构）
+- 支持暂停/恢复/删除下载任务
+- 子文件独立进度和网速显示
+- 视频首帧缩略图提取
+
+### 📜 播放历史
+- 自动记录播放进度，再次打开可续播
+- 封面自动获取（优先使用收藏封面）
+- 支持多选删除播放记录
+
+### ️ 封面管理
 - 支持本地上传封面图片
 - 在线搜索封面图片
 - 智能图片检测
+- saveBase64 开关：保存网络封面为 Base64，离线也可显示
+- 网络图片磁盘缓存
 
 ### 🌐 内嵌浏览器
 - 内置浏览器，无需切换应用
@@ -56,7 +76,7 @@
 - 支持一键调用系统已安装的第三方应用
 - 支持打开：迅雷、115网盘等支持磁力链接及电驴的应用
 - 支持打开各类在线播放磁力软件
-- 支持标记已下载功能，已下载或空收藏则快速复制名称，快速检索
+- 支持标记已下载功能，已下载或空收藏则快速复制名称，快速到其他应用检索
 
 ### 💾 数据备份
 - JSON格式导入导出
@@ -91,23 +111,31 @@
 
 ### 💻 Windows 平台
 
-| Windows-页面1-搜索首页 | Windows-页面2-收藏管理 |
-|:---:|:---:|
-| <img src="./assets/image/windows-page-1.png" alt="Windows-页面1-搜索首页" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-2.png" alt="Windows-页面2-收藏管理" style="width: 100%; max-width: 400px;"> |
+|                                              Windows-探索首页                                               | Windows-收藏管理 |
+|:-------------------------------------------------------------------------------------------------------:|:---:|
+| <img src="./assets/image/windows-page-1.png" alt="Windows-探索首页" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-2.png" alt="Windows-收藏管理" style="width: 100%; max-width: 400px;"> |
 
-| Windows-页面3-设置 | Windows-页面4-网页浏览 |
-|:---:|:---:|
-| <img src="./assets/image/windows-page-3.png" alt="Windows-页面3-设置" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-4.png" alt="Windows-页面4-网页浏览" style="width: 100%; max-width: 400px;"> |
+|                                              Windows-记录管理                                               |                                              Windows-设置页面                                               |
+|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
+| <img src="./assets/image/windows-page-3.png" alt="Windows-记录管理" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-4.png" alt="Windows-设置页面" style="width: 100%; max-width: 400px;"> |
+
+|                                              Windows-在线播放                                               |                                              Windows-下载管理                                               |
+|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
+| <img src="./assets/image/windows-page-5.png" alt="Windows-在线播放" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-6.png" alt="Windows-下载管理" style="width: 100%; max-width: 400px;"> |
 
 ### 📱 Android 平台
 
-| Android-页面1-搜索首页 | Android-页面2-收藏管理 |
-|:---:|:---:|
-| <img src="./assets/image/phone-page-1.png" alt="Android-页面1-搜索首页" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-2.png" alt="Android-页面2-收藏管理" style="width: 100%; max-width: 180px;"> |
+|                                             Android-探索首页                                              | Android-收藏管理 |
+|:-----------------------------------------------------------------------------------------------------:|:---:|
+| <img src="./assets/image/phone-page-1.png" alt="Android-探索首页" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-2.png" alt="Android-收藏管理" style="width: 100%; max-width: 180px;"> |
 
-| Android-页面3-设置 | Android-页面4-网页浏览 |
-|:---:|:---:|
-| <img src="./assets/image/phone-page-3.png" alt="Android-页面3-设置" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-4.png" alt="Android-页面4-网页浏览" style="width: 100%; max-width: 180px;"> |
+|                                              Android-设置                                               |                                             Android-网页浏览                                              |
+|:-----------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
+| <img src="./assets/image/phone-page-3.png" alt="Android-记录管理" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-4.png" alt="Android-设置页面" style="width: 100%; max-width: 180px;"> |
+
+|                                             Android-在线播放                                              | Android-下载管理 |
+|:-----------------------------------------------------------------------------------------------------:|:---:|
+| <img src="./assets/image/phone-page-5.png" alt="Android-在线播放" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-6.png" alt="Android-下载管理" style="width: 100%; max-width: 180px;"> |
 
 ---
 
@@ -132,6 +160,21 @@
 2. 访问资源网站
 3. 软件会自动检测页面中的磁力/电驴链接
 4. 点击链接即可快速收藏
+
+### 🎬 在线播放
+
+1. 在搜索结果或收藏列表中点击磁力链接，弹出资源解析页面
+2. 选择要播放的文件，点击播放按钮
+3. Android 可选择 VOD 或 P2P 模式，桌面端仅支持 P2P 模式
+4. 播放中点击屏幕呼出控制栏：截图、字幕设置、画面调节、音轨/字幕切换、锁屏
+5. 退出后再次打开同一资源可续播
+
+### ⬇️ 下载管理
+
+1. 在资源解析页面选择要下载的文件（仅视频和音频文件可下载），点击下载按钮
+2. 下载任务卡片显示在下载管理页面，点击展开查看子文件详情
+3. 支持暂停/恢复/删除操作
+4. Android 通知栏可查看下载进度
 
 ### 🔄 数据备份与恢复
 
@@ -166,13 +209,15 @@ A: 支持磁力链接（magnet:?xt=...）和电驴链接（ed2k://...）。
 ### Q: 如何添加自定义搜索源？
 A: 进入设置 -> 搜索源管理，点击添加按钮，输入搜索源名称和URL模板。
 
+### Q: VOD 和 P2P 模式有什么区别？
+A: VOD模式仅Android可用，下载速度快；P2P 模式全平台可用，无需第三方SDK。上次选择的模式会被自动记忆。
+
 ---
 
 ## 🔐 隐私声明
 
 - ✅ 所有数据完全本地存储，不上传任何用户信息
 - ✅ 不收集任何用户行为数据
-- ✅ 不包含任何第三方统计SDK
 - ✅ 网络请求仅用于搜索和获取封面图片
 
 ---
@@ -186,6 +231,47 @@ A: 进入设置 -> 搜索源管理，点击添加按钮，输入搜索源名称�
 ---
 
 ## 📝 更新日志
+
+### v1.0.4
+- ✨ 新增：磁力在线播放 — VOD（仅Android）和 P2P（全平台）两种模式，支持多文件选择播放
+- ✨ 新增：播放器 — 字幕搜索/设置、截图、续播、音轨/字幕切换、画面调节（亮度/对比度/饱和度/超分辨率）、锁屏
+- ✨ 新增：下载管理 — 多文件选择下载，任务卡片（合集+子文件），暂停/恢复/删除，独立进度
+- ✨ 新增：播放历史 — 自动记录进度与续播，封面自动获取，多选删除
+- ✨ 新增：封面管理增强 — saveBase64 开关、网络图片磁盘缓存
+- ✨ 新增：Android 通知栏 — 播放进度/下载详情，VOD/P2P 模式标签
+- ✨ 新增：桌面端系统托盘 — 最小化到托盘、关闭确认、ESC 返回
+- ✨ 新增：更新日志 Markdown 渲染与图片显示
+- 🎨 优化：Tracker CDN 镜像、磁力解析全屏页面、局域网 LAN 发现
+- 🐛 修复：字幕设置/轨道同步、P2P 假完成、空输入崩溃、Android Release 崩溃
+
+### v1.0.3
+- ✨ 新增：头像上传和裁剪功能
+- ✨ 新增：全平台图片裁剪功能
+- ✨ 新增：配置管理系统（本地+订阅源模式）
+- ✨ 新增：URL 导入配置
+- ✨ 新增：全局缩放支持（80%-120%）
+- ✨ 新增：探索页面 UI 优化
+- ✨ 新增：收藏页排序（随机排序+透明度）
+- ✨ 新增：资源列表（类型标签+大小+自动打开）
+- ✨ 新增：磁力/电驴链接检测和筛选
+- ✨ 新增：全屏背景（玻璃遮罩+模糊效果）
+- ✨ 新增：图片压缩设置
+- ✨ 新增：收藏分类保存
+- ✨ 新增：缓存分离（应用/浏览器）
+- ✨ 新增：Windows 自定义缓存目录
+- ✨ 新增：标签页自动滚动
+- ✨ 新增：外部应用选择器（通用）
+- 🎨 优化：设计令牌系统、代码拆分（13个组件）
+- 🎨 优化：RegExp 缓存、图标统一
+- 🎨 优化：列表交互、图片加载性能
+- 🐛 修复：背景图片文件泄漏
+- 🐛 修复：32位 Base32 磁力链接
+- 🐛 修复：电驴链接无法打开
+- 🐛 修复：磁力链接检测和双击打开
+- 🐛 修复：分页/透明度/缩放滑块问题
+- 🐛 修复：收藏分类过滤和备份路径问题
+- 🐛 修复：SQL 语法错误
+- 🐛 修复：安装程序64位架构
 
 ### v1.0.2
 - ✨ 新增：添加百度网盘、夸克网盘接管磁力下载功能【小黑盒-疯狂大马猴zd】提出的需求
