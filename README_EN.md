@@ -8,6 +8,7 @@
 
 🔒 A magnet/ED2K link management software focused on privacy protection
 
+QQ Group: 629077739
 </div>
 
 <div align="center">
