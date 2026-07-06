@@ -1,0 +1,69 @@
+{
+  "type": "magnetic-search-settings",
+  "version": 1,
+  "exportedAt": "2026-02-25T21:36:06.396343",
+  "fileName": "配置备份_1772026566",
+  "data": {
+    "customSources": [
+      {
+        "id": "dyg",
+        "name": "电影港",
+        "homeUrl": "https://www.dyg7.com/",
+        "template": "https://www.dyg7.com/",
+        "enabled": true,
+        "isDesktopMode": true,
+        "order": 1
+      },   
+      {
+        "id": "6v",
+        "name": "6V影视",
+        "homeUrl": "https://www.6v123.net/",
+        "template": "https://www.6v123.net/",
+        "enabled": true,
+        "isDesktopMode": true
+      },
+      {
+        "id": "av",
+        "name": "MissAV",
+        "homeUrl": "https://missav.ws/dm194/cn",
+        "template": "https://missav.ws/dm194/cn",
+        "enabled": false,
+        "isDesktopMode": true
+      },
+      {
+        "id": "source-1770187792431",
+        "name": "百诗独",
+        "homeUrl": "https://plwt.kpqq4.com/portal.php?mod=index&mobile=2",
+        "template": "https://plwt.kpqq4.com/portal.php?mod=index&mobile=2",
+        "enabled": true,
+        "isDesktopMode": false
+      },
+      {
+        "id": "source-1770305637891",
+        "name": "高清磁力",
+        "homeUrl": "https://web5.mukaku.com/tlist/3_1.html",
+        "template": "https://web5.mukaku.com/tlist/3_1.html",
+        "enabled": true,
+        "isDesktopMode": true
+      },
+      {
+        "id": "source-1770996936882",
+        "name": "爱喵动漫",
+        "homeUrl": "http://www.comicat.org/",
+        "template": "http://www.comicat.org/",
+        "enabled": true,
+        "isDesktopMode": true
+      },
+      {
+        "id": "nyaa",
+        "name": "nyaa",
+        "homeUrl": "https://sukebei.nyaa.si/",
+        "template": "https://sukebei.nyaa.si/",
+        "enabled": true,
+        "isDesktopMode": true
+      }
+    ],
+    "customCoverSources": [
+    ]
+  }
+}
