@@ -14,7 +14,7 @@ QQ Group: 629077739
 <div align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android-brightgreen.svg" alt="Platform">
   <img src="https://img.shields.io/badge/Language-Flutter-blue.svg" alt="Language">
-  <img src="https://img.shields.io/badge/Version-1.0.4-orange.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.0.5-orange.svg" alt="Version">
 </div>
 
 <div align="right">
@@ -32,7 +32,8 @@ QQ Group: 629077739
 ## ✨ Main Features
 
 ### 🔍 Search & Collection
-- Support custom search sources for quick resource discovery
+- Support custom search sources (GET-link config supported) for quick resource discovery
+- Top mode switch (subscription/local), visual explore source management
 - One-click collection of magnet/ED2K links
 - Save recent search history
 
@@ -44,7 +45,8 @@ QQ Group: 629077739
 ### 🎬 Online Playback
 - Support VOD and P2P playback modes
 - Auto-parse magnet link file list, multi-file selection playback
-- Player features: subtitle search & settings, screenshot save, resume playback, audio/subtitle track switching, video adjustment (brightness/contrast/saturation/super resolution), lock screen mode
+- Player features: subtitle search & settings, screenshot save, resume playback, audio/subtitle track switching, video adjustment (brightness/contrast/saturation), lock screen mode
+- Support external playback: Android launch system player, desktop copy playback link
 - VOD/P2P mode auto-remembers last selection
 
 ### 📥 Download Management
@@ -53,6 +55,12 @@ QQ Group: 629077739
 - Support pause/resume/delete download tasks
 - Independent progress and speed display for sub-files
 - Video first-frame thumbnail extraction
+
+### ☁️ 115 Netdisk
+- After login, browse cloud files right inside the app; videos play in original quality online (keep embedded subtitles)
+- One-tap offline download to 115, running remotely without using local bandwidth
+- Cloud files linked with local download/playback history for unified progress and resume
+- File management: rename, image preview, hierarchical back, and jump from local to the file's 115 folder
 
 ### 📜 Playback History
 - Auto-record playback progress, resume on reopen
@@ -72,6 +80,7 @@ QQ Group: 629077739
 - Ad blocking feature
 - Tab management
 - Settings page supports setting as default browser for quick capture of magnet/ED2K links in pages
+- Browsing history: auto-record visited pages, quickly return to recent ones
 
 ### 🔗 One-Click Open
 - Support one-click invoke third-party apps installed on system
@@ -88,7 +97,7 @@ QQ Group: 629077739
 ### 🎨 Personalization Settings
 - Dark/Light mode switching
 - Multiple preset theme styles
-- Custom theme colors
+- Custom theme colors, network image wallpaper background
 - Support Chinese/English switching
 
 ---
@@ -124,6 +133,10 @@ Go to [Releases](https://github.com/clever-heart/clever-heart-magnetic/releases/
 |:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
 | <img src="./assets/image/windows-page-5.png" alt="Windows-Online Playback" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-6.png" alt="Windows-Download Management" style="width: 100%; max-width: 400px;"> |
 
+|                                              Windows-115 File Browsing                                               |                                              Windows-115 Offline Tasks                                               |
+|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
+| <img src="./assets/image/windows-page-7.png" alt="Windows-115 File Browsing" style="width: 100%; max-width: 400px;"> | <img src="./assets/image/windows-page-8.png" alt="Windows-115 Offline Tasks" style="width: 100%; max-width: 400px;"> |
+
 ### 📱 Android Platform
 
 |                                             Android-Explore Home                                              | Android-Collection Management |
@@ -137,6 +150,10 @@ Go to [Releases](https://github.com/clever-heart/clever-heart-magnetic/releases/
 |                                             Android-Online Playback                                              | Android-Download Management |
 |:-----------------------------------------------------------------------------------------------------:|:---:|
 | <img src="./assets/image/phone-page-5.png" alt="Android-Online Playback" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-6.png" alt="Android-Download Management" style="width: 100%; max-width: 180px;"> |
+
+|                                              Android-115 File Browsing                                               |                                              Android-115 Offline Tasks                                               |
+|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
+| <img src="./assets/image/phone-page-7.png" alt="Android-115 File Browsing" style="width: 100%; max-width: 180px;"> | <img src="./assets/image/phone-page-8.png" alt="Android-115 Offline Tasks" style="width: 100%; max-width: 180px;"> |
 
 ---
 
@@ -232,6 +249,19 @@ If you have questions or suggestions, feel free to contact me via Bilibili or th
 ---
 
 ## 📝 Changelog
+
+### v1.0.5
+- ✨ New: 115 Netdisk integration — after login, browse cloud files inside the app, play videos in original quality online (keep embedded subtitles), one-tap offline download to 115
+- ✨ New: Cloud linked with local — 115 files merged into download/playback history for unified management, jump from local to the file's 115 folder; rename, multi-image preview, hierarchical back
+- ✨ New: Network image wallpaper background — set an online image as app background in one tap
+- ✨ New: Search top mode switch bar (subscription/local), explore source supports GET-link search configuration, easier management
+- ✨ New: Player external playback — Android launch system player, desktop copy playback link
+- ✨ New: Download history page 115 tree structure + resume (breakpoint) download, unified task style
+- ✨ New: Browsing history, quickly return to recently visited pages
+- 🎨 Improved: Player resume seek more stable, speed selection remembers last, MPV log level follows preference, more accurate progress stats
+- 🎨 Improved: WebView cover/background picker experience (reuse decoded bytes, remove click-to-select)
+- 🎨 Improved: 115 friendly error messages, unified session-expired re-login (pops only once)
+- 🐛 Fixed: Android 10 storage permission compatibility, subtitle 403, login not persisted and other issues
 
 ### v1.0.4
 - ✨ New: Magnet online playback — VOD (Android only) and P2P (all platforms) modes, support multi-file selection playback
