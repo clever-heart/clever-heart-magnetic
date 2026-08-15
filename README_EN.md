@@ -14,7 +14,7 @@ QQ Group: 629077739
 <div align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android-brightgreen.svg" alt="Platform">
   <img src="https://img.shields.io/badge/Language-Flutter-blue.svg" alt="Language">
-  <img src="https://img.shields.io/badge/Version-1.0.5-orange.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.0.7-orange.svg" alt="Version">
 </div>
 
 <div align="right">
@@ -250,6 +250,29 @@ If you have questions or suggestions, feel free to contact me via Bilibili or th
 
 ## 📝 Changelog
 
+### v1.0.7
+- ✨ New: DLNA casting — support P2P/VOD/115/local file casting to TV
+- ✨ New: Magnet favorite subscription update detection — revisit source page to find new magnets with red badge, support merge; per-item subscription toggle
+- ✨ New: Subtitle search & mount interaction refactor — merge subtitle dialog into top tabs (tracks/online search), support more online subtitle sources
+- ✨ New: 115 smart rename dialog, filename lossless chunking rewrite; push directory dialog adds favorite option & mark downloaded
+- 🎨 Improved: Web nav bar shows title, input box & more menu streamlined
+- 🎨 Improved: Player UI refactor, mute on episode switch to eliminate artifacts
+
+### v1.0.6
+- ✨ New: 115 upload images/covers, jump to directory after upload; directory selector supports creating new folders
+- ✨ New: Universal search history dropdown — explore, favorites, 115, records, new tab pages all support quick search history reuse
+- ✨ New: Playback mode switch — sequential/random play, speed limit extended to 5x with last selection remembered
+- ✨ New: Magnet parse top bar copy magnet link icon, magnet dialog inject torrent name button
+- ✨ New: Image grid 4:3 portrait layout
+- 🎨 Improved: Player eliminate progress bar/seconds flicker, stutter fix, episode selection/landscape/auto-next-episode optimizations
+- 🎨 Improved: Player mute before exit to eliminate async release echo, pre-init loading screen unified speed/peers display
+- 🎨 Improved: 115 file type filter supports multi-select, image preview path memory (back returns to album list)
+- 🎨 Improved: 115 jump-to-directory anchor positioning, pagination infinite loop fix
+
+- 🐛 Fixed: VOD first-play/episode-switch freeze (wait for sub-file seeding before returning proxy URL)
+- 🐛 Fixed: Playback record cover only uses exit/switch-episode screenshot (remove whatslink override & first-frame), sparse file progress misjudgment
+- 🐛 Fixed: media_kit pseudo-track filtering, multiple code audit defects (P0-P3)
+
 ### v1.0.5
 - ✨ New: 115 Netdisk integration — after login, browse cloud files inside the app, play videos in original quality online (keep embedded subtitles), one-tap offline download to 115
 - ✨ New: Cloud linked with local — 115 files merged into download/playback history for unified management, jump from local to the file's 115 folder; rename, multi-image preview, hierarchical back
@@ -261,7 +284,7 @@ If you have questions or suggestions, feel free to contact me via Bilibili or th
 - 🎨 Improved: Player resume seek more stable, speed selection remembers last, MPV log level follows preference, more accurate progress stats
 - 🎨 Improved: WebView cover/background picker experience (reuse decoded bytes, remove click-to-select)
 - 🎨 Improved: 115 friendly error messages, unified session-expired re-login (pops only once)
-- 🐛 Fixed: Android 10 storage permission compatibility, subtitle 403, login not persisted and other issues
+- 🐛 Fixed: Android 10 storage permission, subtitle 403, login not persisted and other issues
 
 ### v1.0.4
 - ✨ New: Magnet online playback — VOD (Android only) and P2P (all platforms) modes, support multi-file selection playback
