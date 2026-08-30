@@ -14,7 +14,7 @@ QQ Group: 629077739
 <div align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android-brightgreen.svg" alt="Platform">
   <img src="https://img.shields.io/badge/Language-Flutter-blue.svg" alt="Language">
-  <img src="https://img.shields.io/badge/Version-1.0.7-orange.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.0.8-orange.svg" alt="Version">
 </div>
 
 <div align="right">
@@ -249,6 +249,21 @@ If you have questions or suggestions, feel free to contact me via Bilibili or th
 ---
 
 ## 📝 Changelog
+
+### v1.0.8
+- ✨ New: Full web video sniffing pipeline — auto-detect videos while browsing (m3u8/MP4/extensionless CDN links)
+- ✨ New: Web link favorites — one-tap parse saved URLs, hybrid favorite cards show resource counts
+- ✨ New: Series collection quick favorite — auto-extract page episodes and save all (may not be fully stable)
+- ✨ New: Ad blocking full rewrite — anti-AD 100k+ domains + EasyList CSS rules + network-layer interception + smart scoring; off by default for new installs (may false-positive some page popups)
+- ✨ New: Liquid glass UI — unified liquid-glass bottom/top navigation, swipe left/right to switch modes/categories across four main pages
+- ✨ New: Video dynamic background — local MP4 loop playback with mute toggle icon
+- ✨ New: Resource dialog type filter — magnet/URL/ed2k multi-select chips with persistence
+- ✨ New: Register as system video player (Android/Windows can open videos from other apps)
+- ✨ New: Settings QQ group join entry, WebView stop button while loading
+- 🎨 Improved: Zero-blocking player exit persistence, control bar auto-hide extended to 10s, long-title marquee scrolling
+- 🎨 Improved: WebView script injection caching, block page autoplay, HLS playback acceleration
+- 🎨 Improved: Subscription update detection enhanced — web links/series sub-links included with dual-track merge
+- 🐛 Fixed: Wrong local IP selection on multi-NIC machines breaking LAN transfer, multiple magnet links swallowed by same page title
 
 ### v1.0.7
 - ✨ New: DLNA casting — support P2P/VOD/115/local file casting to TV

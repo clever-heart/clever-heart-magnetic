@@ -14,7 +14,7 @@ QQ交流群：629077739
 <div align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android-brightgreen.svg" alt="Platform">
   <img src="https://img.shields.io/badge/Language-Flutter-blue.svg" alt="Language">
-  <img src="https://img.shields.io/badge/Version-1.0.7-orange.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.0.8-orange.svg" alt="Version">
 </div>
 
 <div align="right">
@@ -249,6 +249,21 @@ A: VOD模式仅Android可用，下载速度快；P2P 模式全平台可用，无
 ---
 
 ## 📝 更新日志
+
+### v1.0.8
+- ✨ 新增：网页视频嗅探全流程 — 浏览网页自动嗅探视频（m3u8/MP4/无扩展名 CDN 直链）
+- ✨ 新增：网页链接收藏 — 收藏网址一键解析资源，混合收藏卡片标签显示资源数量
+- ✨ 新增：剧集合集快速收藏 — 自动提取页面集数并保存全部集数（不一定稳定和好用）
+- ✨ 新增：广告拦截全面重构 — anti-AD 十万域名 + EasyList CSS 规则 + 网络层请求拦截 + 智能评分系统，新装用户默认关闭可手动开启（可能误杀页面弹窗类）
+- ✨ 新增：液态玻璃 UI — 底部导航/顶部导航统一液态玻璃效果，四主页面模式/分类支持左右滑动切换
+- ✨ 新增：视频动态背景 — 本地 MP4 循环播放，右下角音乐图标静音控制
+- ✨ 新增：资源弹窗类型筛选 — 磁力/网址/电驴多选筛选 chips，支持持久化
+- ✨ 新增：注册为系统视频播放器（Android/Windows 可在其他应用中选择本应用播放）
+- ✨ 新增：设置页 QQ 群一键加群入口、WebView 加载时可点停止取消
+- 🎨 优化：播放器退出链路零阻塞落库、控制条自动隐藏延长至 10s、顶栏长标题跑马灯滚动
+- 🎨 优化：WebView 脚本注入缓存提速、阻止网页自动播放、HLS 播放加速
+- 🎨 优化：订阅更新检测增强 — 网页链接/剧集子链接纳入更新检测与双轨合并
+- 🐛 修复：多网卡机器本机 IP 误选导致局域网传输失败、磁力多链接被同一页面标题吞没
 
 ### v1.0.7
 - ✨ 新增：DLNA 投屏功能，支持 P2P/VOD/115/本地文件四种模式投屏到电视
